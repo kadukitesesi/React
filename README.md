@@ -1,8 +1,16 @@
-# React + Vite
+# React
+## Até agora aprendi:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- rotas
+- props
+- componentes
+- estado (utilizando useState)
+- JSX
 
-Currently, two official plugins are available:
+ ### O que irei aprender em seguida: 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ - Hooks
+ - Renderização condicional
+ - Renderizando listas / Manipulação de listas
+ - Manipulação de erros e estado de carregamento
+ - Consumo de API
